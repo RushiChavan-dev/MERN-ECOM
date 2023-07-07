@@ -27,11 +27,20 @@ I have used ReactJS for the front-end development. While working on this project
 
 ---
 ## Features
+![page details](https://github.com/RushiChavan-dev/MERN-ECOM/assets/50754786/70d0aaa7-84bd-40a3-9571-1bada1183de9)
+
+#### Mobile View
+
+![Screenshot 2023-07-06 235452](https://github.com/RushiChavan-dev/MERN-ECOM/assets/50754786/531b9285-7300-48bd-9867-3f4c427f973f)
 
 ### Login and Sign-up Feature
 This application has google authentication as well as I have implimented sign-in using manual input and storing this data into database and also saving passwords in jwt-encoding and dcrypt. Once user succesfully login or signup, he/she got redirect to home page
 
 #### Preview
+
+
+
+https://github.com/RushiChavan-dev/MERN-ECOM/assets/50754786/ee9fc22e-4938-4674-8e55-b301f7c6889e
 
 
 
@@ -44,6 +53,10 @@ This appication is able to perform CRUD operation with the posts and it will als
 
 
 
+Uploading CURD Op.mp4…
+
+
+
 ### Detail page 
 I have added an detail page logic into this project, so that user can see individual post details and full message.
 
@@ -51,11 +64,12 @@ I have added an detail page logic into this project, so that user can see indivi
 
 
 
+Uploading details page.mp4…
+
+
+
 ### Searching Post with text and tags
 So in this application, user can search an paticular post by just typing its title or any tag. 
-
-#### Preview
-
 
 ### Back-End
 For Backend i have used nodeJs and ExpressJS. And i have used MongoDB for database.
